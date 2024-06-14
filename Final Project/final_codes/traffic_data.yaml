@@ -1,0 +1,9 @@
+train: ../dataset/content/yolo_dataset/traffic_light/images/train
+val: ../dataset/content/yolo_dataset/traffic_light/images/valid
+test: ../dataset/content/yolo_dataset/traffic_light/images/test
+
+# Classes
+names:
+  0: relevant
+  1: not relevant
+  2: ped
